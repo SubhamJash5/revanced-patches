@@ -629,9 +629,18 @@ Notă: Activarea acestei opțiuni ascunde, de asemenea, forțat reclamele video"
   <string name="revanced_shorts_player_screen_summary">Ascunde sau afișează componente în playerul Shorts</string>
   <!-- 'home' should be translated using the same localized wording YouTube displays for the home tab. -->
   <string name="revanced_hide_shorts_home_title">Ascunde Short din feed-ul de acasă</string>
+  <string name="revanced_hide_shorts_home_summary_on">Fluxul principal și videoclipurile asociate sunt ascunse</string>
+  <string name="revanced_hide_shorts_home_summary_off">Fluxul principal și videoclipurile asociate sunt afișate</string>
   <!-- 'subscription' should be translated using the same localized wording YouTube displays for the subscription tab. -->
   <string name="revanced_hide_shorts_subscriptions_title">Ascundeți Shorts în fluxul de abonament</string>
+  <string name="revanced_hide_shorts_subscriptions_summary_on">Ascuns în fluxul de abonamente</string>
+  <string name="revanced_hide_shorts_subscriptions_summary_off">Afișat în fluxul de abonamente</string>
   <string name="revanced_hide_shorts_search_title">Ascunde Shorts în rezultatele căutării</string>
+  <string name="revanced_hide_shorts_search_summary_on">Ascunse în rezultatele căutării</string>
+  <string name="revanced_hide_shorts_search_summary_off">Afișat în rezultatele căutării</string>
+  <string name="revanced_hide_shorts_history_title">Ascunde Shorts în istoricul vizionărilor</string>
+  <string name="revanced_hide_shorts_history_summary_on">Ascuns în istoricul vizionărilor</string>
+  <string name="revanced_hide_shorts_history_summary_off">Afișate în istoricul vizionărilor</string>
   <!-- 'join' should be translated using the same localized wording YouTube displays for the button. -->
   <string name="revanced_hide_shorts_join_button_title">Ascunde butonul de alăturare</string>
   <string name="revanced_hide_shorts_join_button_summary_on">Butonul de alăturare este ascuns</string>

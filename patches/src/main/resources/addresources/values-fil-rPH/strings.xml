@@ -636,8 +636,11 @@ Tandaan: Ang pagpapagana nito ay nagtatago rin ng mga ad ng video"</string>
   <string name="revanced_hide_shorts_subscriptions_summary_on">Nakatago sa feed ng subscription</string>
   <string name="revanced_hide_shorts_subscriptions_summary_off">Ipinakita sa feed ng subscription</string>
   <string name="revanced_hide_shorts_search_title">Itago ang Shorts sa mga resulta ng paghahanap</string>
+  <string name="revanced_hide_shorts_search_summary_on">Nakatago sa mga resulta ng paghahanap</string>
   <string name="revanced_hide_shorts_search_summary_off">Ipinakita sa mga resulta ng paghahanap</string>
+  <string name="revanced_hide_shorts_history_title">Itago ang Shorts sa watch history</string>
   <string name="revanced_hide_shorts_history_summary_on">Nakatago sa kasaysayan ng panonood</string>
+  <string name="revanced_hide_shorts_history_summary_off">Ipinapakita sa watch history</string>
   <!-- 'join' should be translated using the same localized wording YouTube displays for the button. -->
   <string name="revanced_hide_shorts_join_button_title">Itago ang button na sumali</string>
   <string name="revanced_hide_shorts_join_button_summary_on">Nakatago ang button na sumali</string>

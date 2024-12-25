@@ -636,8 +636,11 @@ Napomena: Omogućavanje ovoga prisilno sakriva i video oglase"</string>
   <string name="revanced_hide_shorts_subscriptions_summary_on">Sakriveno u feedu pretplata</string>
   <string name="revanced_hide_shorts_subscriptions_summary_off">Prikazano u feedu pretplata</string>
   <string name="revanced_hide_shorts_search_title">Sakrij Shorts videe u rezultatima pretrage</string>
+  <string name="revanced_hide_shorts_search_summary_on">Sakrivena u rezultatima pretrage</string>
   <string name="revanced_hide_shorts_search_summary_off">Prikazano u rezultatima pretraživanja</string>
+  <string name="revanced_hide_shorts_history_title">Sakrij Shorts u istoriji pretraživanja</string>
   <string name="revanced_hide_shorts_history_summary_on">Sakriveno u istoriji gledanja</string>
+  <string name="revanced_hide_shorts_history_summary_off">Prikazano u istoriji pretraživanja</string>
   <!-- 'join' should be translated using the same localized wording YouTube displays for the button. -->
   <string name="revanced_hide_shorts_join_button_title">Sakrij dugme „Učlani me”</string>
   <string name="revanced_hide_shorts_join_button_summary_on">Dugme „Učlani me” je skriveno</string>
@@ -1295,7 +1298,7 @@ Reprodukcija videa možda neće raditi"</string>
   <string name="revanced_spoof_video_streams_ios_force_avc_user_dialog_message">"Omogućavanje ovoga može poboljšati trajanje baterije i popraviti zastoje pri reprodukciji.
 
 AVC ima maksimalnu rezoluciju od 1080p, audio kodek Opus nije dostupan, a reprodukcija videa će koristiti više internet podataka nego VP9 ili AV1."</string>
-  <string name="revanced_spoof_video_streams_about_ios_tv_title">Neželjeni efekti lažiranja na iOS TV</string>
+  <string name="revanced_spoof_video_streams_about_ios_tv_title">Neželjeni efekti lažiranja na iOS</string>
   <string name="revanced_spoof_video_streams_about_ios_tv_summary">"• Filmovi ili plaćeni videi se možda neće puštati
 • Stabilna jačina zvuka nije dostupna
 • Videi će se završavati 1 sekundu ranije"</string>
